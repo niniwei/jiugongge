@@ -1,0 +1,16 @@
+
+.box{
+    width: 150px;
+    height:150px;
+    padding: 1%;
+    border: #dddddd solid 1px;
+    background: #ffffff;
+}
+.inner{
+    height: 30%;
+    width: 30%;
+    background-color: #E8830D;
+    border: #ffffff solid 1px;
+    border-radius: 4px;
+    float: left;
+}
